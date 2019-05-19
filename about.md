@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+## 蔡嘉文
 
-### More Information
+我致力于创造价值以及帮助能够创造价值的人。
 
-A place to include any other types of information that you'd like to include about yourself.
+我现在在运营一家投资公司，专注于区块链相关的一级市场和二级市场投资。
 
-### Contact me
+如果你有资金管理需求，或者有好的创业想法，或者单纯对我感兴趣，请通过以下方式联系我。
 
-[email@domain.com](mailto:email@domain.com)
+微信  caijiawen2016
+
+邮箱  492338335@qq.com
