@@ -1,11 +1,19 @@
 ---
 layout: post
-title: You're up and running!
+title: 我最重要的价值
 published: true
 ---
 
-我是蔡嘉文
+### 我最重要的价值
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#### 持续成长
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+我要热爱自己的生命，在有限的生命中不间断地使自己进化。当失败来临时，把它看作成长的机会。
+
+#### 创造财富
+
+我要自由地思考并行动，并通过行动创造财富。财富的目的是让我更加自由地思考并行动。
+
+#### 追求幸福
+
+我要为实现自己的价值而奋斗，从创造性工作和有意义的人际关系中获得乐趣。
