@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 我最重要的价值
+title: 思维的结构
 published: true
 ---
 
