@@ -6,6 +6,7 @@ published: true
 
 
 <iframe src="https://drive.google.com/file/d/17Ya5h4vbWz34Z8LFTXf37ZuZflqLETJX/view?usp=sharing" width="640" height="480"></iframe>
+<embed src="https://drive.google.com/file/d/17Ya5h4vbWz34Z8LFTXf37ZuZflqLETJX/view?usp=sharing" type="application/pdf"/>
 
 
 
