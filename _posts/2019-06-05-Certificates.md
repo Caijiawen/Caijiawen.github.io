@@ -4,5 +4,5 @@ title: MOOC证书
 published: true
 ---
 
-![Udacity Deep Reinforcement Learning](/images/drl.png)
+![Udacity Deep Reinforcement Learning](/images/uda_drl.png)
 
