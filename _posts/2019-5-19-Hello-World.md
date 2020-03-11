@@ -5,9 +5,6 @@ published: true
 ---
 
 
-<iframe src="https://github.com/Caijiawen/Notebooks/blob/master/udacity_drl.pdf" width="640" height="480"></iframe>
-
-
 
 ### 持续成长
 
